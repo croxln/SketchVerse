@@ -9,7 +9,7 @@ SketchVerse, Gartic.io tarzı çizim–tahmin oyunlarını alıp; RPG sistemleri
 Bu proje bir demo, konsept çalışmadır ; başından sonuna kadar tasarlanmış, dengelenmiş ve aktif olarak oynanabilen bir oyun deneyimidir.
 
 🌐 Canlı Oyna
-👉 https://sketch-verse-135333790754.us-west1.run.app/
+👉 https://sketchverse.netlify.app/
 
 🕹️ Oyun Deneyimi
 
